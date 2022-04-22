@@ -155,6 +155,7 @@
         {
             string gallow = "";
 
+            //gallow construction.
             Console.SetCursorPosition(6, 10);
             Console.Write("________");
             Console.SetCursorPosition(5, 11);
@@ -180,20 +181,35 @@
         {
             string mrhangman = "";
 
+            //man 1.
             Console.SetCursorPosition(13, 12);
             Console.Write("|");
+
+            //man 2.
             Console.SetCursorPosition(13, 13);
             Console.Write("O");
+
+            //man 3.
             Console.SetCursorPosition(12, 14);
             Console.Write("/");
+
+            //man 4.
             Console.SetCursorPosition(13, 14);
             Console.Write("|");
+
+            //man 5.
             Console.SetCursorPosition(14, 14);
             Console.Write("\\");
+
+            //man 6.
             Console.SetCursorPosition(12, 15);
             Console.Write("/");
+
+            //man 7.
             Console.SetCursorPosition(13, 15);
             Console.Write("'");
+
+            //man 8.
             Console.SetCursorPosition(14, 15);
             Console.Write("\\");
 
